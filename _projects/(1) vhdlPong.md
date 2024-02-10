@@ -1,13 +1,8 @@
 ---
-title: "VHDL: Pong"
-date: 2023-4-26
-categories: [FPGA]
-tags: [VHDL, Cyclone II]
-author: Jacob
+name: "VHDL: Pong"
 image:
   path: /assets/fpga/pong/pong.jpg
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Pong, running off of a DE2 FPGA Development Board
+  description: Pong, running off of a DE2 FPGA Development Board
 ---
 
 In order to further my knowledge of FPGA logic and VHDL I created a simple Pong game.

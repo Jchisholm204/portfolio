@@ -1,9 +1,7 @@
 ---
 title: "VHDL: Debouncer"
-date: 2023-10-4
-categories: [FPGA]
 tags: [wiring, VHDL]
-author: Jacob
+description:
 ---
 
 Today we will talk about a process called debouncing, what it is used for, and how to implement it on an FPGA using VHDL

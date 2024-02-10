@@ -1,15 +1,13 @@
 ---
 title: STM32 FreeRTOS CAN Bus
-date: 2024-1-4
-categories:
-  - ARM Bare Metal
 tags:
   - stm32
   - baremetal
   - firmware
   - cmake
   - freertos
-author: Jacob
+
+description:
 ---
 ## Introduction
 Continuing from where I left off with the UART drivers, the next logical step was to apply what I had learned to a more complicated interface. Controller Area Network, or CAN bus, is a protocol used on automobiles for its extreme resiliency and resistance to electrical interference. For these reasons, it is the main communication system used aboard the Queen's Formula SAE car.
